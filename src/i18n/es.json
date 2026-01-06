@@ -1,0 +1,22 @@
+{
+  "hero_title": "Desarrollador Web Full-Stack",
+  "hero_subtitle": "Construyo aplicaciones web modernas y escalables",
+  "contact": "Contacto",
+  "skills": "Habilidades",
+  "projects": "Proyectos",
+  "project_construction_desc": "Un sitio web moderno y responsive para una empresa de construcción, diseñado para mostrar servicios, proyectos y contacto.",
+  "services": "Servicios",
+  "service_web_desc": "Diseño y desarrollo de sitios web rápidos, responsivos y modernos adaptados a las necesidades de tu negocio.",
+  "service_fullstack_desc": "Aplicaciones web completas con interfaces modernas y una arquitectura backend sólida.",
+  "service_api_desc": "APIs REST seguras y escalables para conectar aplicaciones de forma eficiente.",
+  "about_title": "Sobre mí",
+  "about_desc": "Desarrollador Web Full-Stack especializado en React, Node.js y PostgreSQL. Construyo soluciones web completas de frontend a backend.",
+  "footer_rights": "Todos los derechos reservados.",
+  "nav_about": "Sobre mí",
+  "nav_skills": "Habilidades",
+  "nav_projects": "Proyectos",
+  "nav_services": "Servicios",
+  "nav_contact": "Contacto"
+
+
+}

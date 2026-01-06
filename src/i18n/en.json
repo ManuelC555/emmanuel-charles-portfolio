@@ -1,0 +1,26 @@
+{
+  "hero_title": "Full-Stack Web Developer",
+  "hero_subtitle": "I build modern and scalable web applications",
+  "contact": "Contact",
+  "skills": "Skills",
+  "projects": "Projects",
+  "project_construction_title": "Construction Website",
+  "project_construction_desc": "A modern and responsive construction website designed to showcase services, projects, and contact information.",
+  "services": "Services",
+  "service_web": "Web Development",
+  "service_web_desc": "Design and development of fast, responsive, and modern websites adapted to your business needs.",
+  "service_fullstack": "Fullstack Development",
+  "service_fullstack_desc": "Complete web applications with clean frontend interfaces and solid backend architecture.",
+  "service_api": "API Development",
+  "service_api_desc": "Secure and scalable REST APIs to connect applications efficiently.",
+  "about_title": "About Me",
+  "about_desc": "Full-Stack Web Developer specialized in React, Node.js and PostgreSQL. I build complete web solutions from frontend to backend.",
+  "footer_rights": "All rights reserved.",
+  "nav_about": "About",
+  "nav_skills": "Skills",
+  "nav_projects": "Projects",
+  "nav_services": "Services",
+  "nav_contact": "Contact"
+  
+}
+
