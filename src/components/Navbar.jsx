@@ -17,28 +17,16 @@ export default function Navbar() {
         <a href="#projects" onClick={() => setOpen(false)}>{t("nav_projects")}</a>
         <a href="#services" onClick={() => setOpen(false)}>{t("nav_services")}</a>
         <a href="#contact" onClick={() => setOpen(false)}>{t("nav_contact")}</a>
-
-        <div className="lang-switch mobile">
-          <button onClick={() => i18n.changeLanguage("en")}>EN</button>
-          <button onClick={() => i18n.changeLanguage("es")}>ES</button>
-        </div>
       </div>
 
       
-      <div className="lang-switch desktop">
+      <div className="lang-switch">
         <button
   className={i18n.language === "en" ? "active" : ""}
-  onClick={() => i18n.changeLanguage("en")}
->
-  EN
-</button>
+  onClick={() => i18n.changeLanguage("en")}>EN</button>
 
-<button
-  className={i18n.language === "es" ? "active" : ""}
-  onClick={() => i18n.changeLanguage("es")}
->
-  ES
-</button>
+<button className={i18n.language === "es" ? "active" : ""}
+  onClick={() => i18n.changeLanguage("es")}>ES</button>
 
       </div>
       <button className="menu-toggle" onClick={() => setOpen(!open)}>

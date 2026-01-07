@@ -4,7 +4,7 @@ export default function About() {
   const { t } = useTranslation();
 
   return (
-    <section id="about">
+    <section className="about" id="about">
       <div className="about">
         <div className="about-grid">
           <div className="about-image">
