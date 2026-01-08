@@ -176,6 +176,11 @@ section {
   pointer-events: none;
 }
 
+.hero-overlay {
+  pointer-events: none;
+}
+
+
 /* CONTENT */
 .hero-content {
   position: relative;
