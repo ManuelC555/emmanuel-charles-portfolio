@@ -4,7 +4,8 @@ export default function Contact() {
   const { t } = useTranslation();
 
   return (
-    <section className="section reveal" id="contact">
+    <section className="section" id="contact">
+      <div className="reveal">
       <h2>{t("contact")}</h2>
 
       <div className="cards">
@@ -15,6 +16,7 @@ export default function Contact() {
           <a href="https://wa.me/34643006445" className="btn primary"> WhatsApp </a>
           </div>
         </div>
+      </div>
       </div>
     </section>
   );
